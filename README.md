@@ -9,9 +9,9 @@ Welcome to the **Java Programs** repository! This collection of programs is orga
 | Day  | Topics & Difficulty Level                | Programs Covered                                  |
 |------|------------------------------------------|--------------------------------------------------|
 | Day 1 | 📝 **Patterns (Easy)**                   | [Easy Patterns](#easy-patterns)                  |
-| Day 2 | 💡 **Basic Java Programs (2 problems)**  | [Basic Programs](#basic-java-programs)           |
+| Day 2 | 💡 **Basic Java Programs (2 problems)**  | [Easy Basic Programs](#easy-basic-programs)      |
 | Day 3 | 🔰 **Patterns (Medium)**                 | [Medium Patterns](#medium-patterns)              |
-| Day 4 | 📝 **Basic Java Programs (3 problems)**  | [Basic Programs](#basic-java-programs)           |
+| Day 4 | 📝 **Basic Java Programs (3 problems)**  | [Medium Basic Programs](#medium-basic-programs)  |
 | Day 5 | 🔢 **Array Problems (Easy)**             | [Easy Array Problems](#easy-array-problems)      |
 | Day 6 | 🔄 **Sorting Algorithms**               | [Sorting Algorithms](#sorting-algorithms)        |
 
@@ -23,7 +23,10 @@ Welcome to the **Java Programs** repository! This collection of programs is orga
   - [Easy](#easy-patterns)
   - [Medium](#medium-patterns)
   - [Hard](#hard-patterns)
-- [Basic Programs](#basic-java-programs)
+- [Basic Programs](#basic-programs)
+  - [Easy](#easy-basic-programs)
+  - [Medium](#medium-basic-programs)
+  - [Hard](#hard-basic-programs)
 - [Array Problems](#array-problems)
   - [Easy](#easy-array-problems)
   - [Medium](#medium-array-problems)
@@ -65,16 +68,21 @@ The Patterns section is divided by difficulty to systematically build your logic
 
 These basic programs cover fundamental logic-building commonly asked in interviews.
 
-### Day 2
+### Easy Basic Programs (Day 2)
 
 1. [EvenAndOdd](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/EvenAndOdd.java)
 2. [FactorialNumber](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/FactorialNumber.java)
 
-### Day 4
+### Medium Basic Programs (Day 4)
 
 3. [FibonacciSeries](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/FibonacciSeries.java)
 4. [LargestAndSmallestNumber](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/LargestAndSmallestNumber.java)
 5. [Palindrome](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/Palindrome.java)
+
+### Hard Basic Programs
+
+1. [ArmstrongNumber](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/ArmstrongNumber.java)
+2. [PerfectNumber](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/PerfectNumber.java)
 
 ---
 
@@ -90,6 +98,10 @@ Array problems are divided into three levels to progressively improve your probl
 ### Medium Array Problems
 
 1. [Bubble Sort](link_to_medium_bubble_sort)
+
+### Hard Array Problems
+
+1. [Repeated Elements in Array](link_to_hard_repeated_elements)
 
 ---
 
@@ -110,6 +122,14 @@ String manipulation problems to help you tackle interview challenges.
 ### Easy String Problems
 
 1. [String Problem 1](link_to_easy_string_problem_1)
+
+### Medium String Problems
+
+1. [String Problem 2](link_to_medium_string_problem_2)
+
+### Hard String Problems
+
+1. [String Problem 3](link_to_hard_string_problem_3)
 
 ---
 
