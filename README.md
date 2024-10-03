@@ -35,27 +35,30 @@ The Patterns section is divided by difficulty to build your logic systematically
 
 ### Medium Patterns
 
-1. [Pyramid]([link_to_medium_pyramid](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Medium/PalindromeTriangle.java))
-2. [Diamond]()
+1. [PalindromeTriangle](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Medium/PalindromeTriangle.java)
+2. [ReverseTriangle](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Medium/ReverseTriangle.java)
+3. [Triangle](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Medium/Triangle.java)
+4. [pascalsTraingle](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Medium/pascalsTraingle.java)
 
 ### Hard Patterns
 
-1. [Butterfly](link_to_hard_butterfly)
+1. [ButterflyPattern](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Hard/ButterflyPattern.java)
+2. [Rhombus](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Hard/Rhombus.java)
 
 ---
 
-## 📝 Basic Programs
+## 📝 Basic Java Programs
 
 These basic programs cover fundamental logic building commonly asked in interviews:
 
-1. [Swap Two Numbers](link_to_swap_program)
-2. [Sum of First N Natural Numbers](link_to_sum_of_first_n_program)
-3. [Palindrome Check](link_to_palindrome_program)
-4. [Prime Number Check](link_to_prime_program)
-5. [Factorial of a Number](link_to_factorial_program)
-6. [Fibonacci Series](link_to_fibonacci_program)
-7. [Perfect Number Check](link_to_perfect_number_program)
-8. [Armstrong Number Check](link_to_armstrong_program)
+1. [EvenAndOdd](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/EvenAndOdd.java)
+2. [FactorialNumber](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/FactorialNumber.java)
+3. [FibonacciSeries](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/FibonacciSeries.java)
+4. [LargestAndSmallestNumber](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/LargestAndSmallestNumber.java)
+5. [MultiplicationTable](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/MultiplicationTable.java)
+6. [Palindrome](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/Palindrome.java)
+7. [PositiveOrNegative](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/PositiveOrNegative.java)
+8. [SumOfNaturalNumbers](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/SumOfNaturalNumbers.java)
 
 ---
 
