@@ -6,19 +6,19 @@ Welcome to the **Java Programs** repository! This collection of Java programs is
 
 ## 📂 Repository Structure
 
-- [Patterns](#patterns) 🎨
-  - [Easy](#easy-patterns🌱) – Beginner-friendly patterns to get you started.
-  - [Medium](#medium-patterns) – Intermediate challenges for better logic building.
-  - [Hard](#hard-patterns) – Advanced patterns to test your problem-solving skills.
-- [Basic Programs](#basic-java-programs) 💡 – Essential programs often asked in interviews.
-- [Array Problems](#array-problems) 📊
-  - [Easy](#easy-array-problems) – Elementary array operations.
-  - [Medium](#medium-array-problems) – Sorting and intermediate array tasks.
-  - [Hard](#hard-array-problems) – Complex array-based problem-solving.
-- [String Problems](#string-problems) 🔠
-  - [Easy](#easy-string-problems) – Basic string manipulations.
-  - [Medium](#medium-string-problems) – Intermediate string challenges.
-  - [Hard](#hard-string-problems) – Tough string manipulation tasks.
+- [Patterns](#patterns-🎨)
+  - [Easy](#easy-patterns-🌱) – Beginner-friendly patterns to get you started.
+  - [Medium](#medium-patterns-🌿) – Intermediate challenges for better logic building.
+  - [Hard](#hard-patterns-🌳) – Advanced patterns to test your problem-solving skills.
+- [Basic Programs](#-basic-java-programs-💡) – Essential programs often asked in interviews.
+- [Array Problems](#array-problems-📊)
+  - [Easy](#easy-array-problems-🟢) – Elementary array operations.
+  - [Medium](#medium-array-problems-🟡) – Sorting and intermediate array tasks.
+  - [Hard](#hard-array-problems-🔴) – Complex array-based problem-solving.
+- [String Problems](#string-problems-🔠)
+  - [Easy](#easy-string-problems-🟢) – Basic string manipulations.
+  - [Medium](#medium-string-problems-🟡) – Intermediate string challenges.
+  - [Hard](#hard-string-problems-🔴) – Tough string manipulation tasks.
 
 ---
 
