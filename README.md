@@ -6,14 +6,16 @@ Welcome to the **Java Programs** repository! This collection of programs is orga
 
 ## 📅 Day-Wise Preparation
 
-- [Day 1: Patterns](#day-1-patterns)
-- [Day 2: Basic Java Programs](#day-2-basic-java-programs)
-- [Day 3: Array Problems](#day-3-array-problems)
-- [Day 4: String Problems](#day-4-string-problems)
+- [Day 1: Easy Patterns](#easy-patterns)
+- [Day 2: Medium Patterns](#medium-patterns)
+- [Day 3: Hard Patterns](#hard-patterns)
+- [Day 4: Basic Java Programs](#basic-java-programs)
+- [Day 5: Array Problems](#array-problems)
+- [Day 6: String Problems](#string-problems)
 
 ---
 
-## 📅 Day 1: Patterns
+## 💡 Patterns
 
 Enhance your pattern-building skills. Mastering patterns will help you get better at loops and nested loops.
 
@@ -38,7 +40,7 @@ Enhance your pattern-building skills. Mastering patterns will help you get bette
 
 ---
 
-## 📅 Day 2: Basic Java Programs
+## 📝 Basic Java Programs
 
 Familiarize yourself with frequently asked basic Java programs.
 
@@ -53,7 +55,7 @@ Familiarize yourself with frequently asked basic Java programs.
 
 ---
 
-## 📅 Day 3: Array Problems
+## 📊 Array Problems
 
 Hone your problem-solving abilities with various array-related problems.
 
@@ -72,7 +74,7 @@ Hone your problem-solving abilities with various array-related problems.
 
 ---
 
-## 📅 Day 4: String Problems
+## 🔠 String Problems
 
 Master string manipulation by solving problems from easy to hard difficulty.
 
@@ -108,4 +110,10 @@ Hi! I’m **Adithya Perugu**, a passionate full-stack developer with expertise i
 
 - [GitHub](https://github.com/peruguadithya)
 
-![Java Logo](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)  ![Coding](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Code_logo.png/600px-Code_logo.png)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="120" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Coding" width="120" height="120"/>
+</p>
