@@ -1,119 +1,138 @@
-# Java Programs for Interview Preparation 🚀
+# 🚀 Java Programs for Interview Preparation
 
-Welcome to the **Java Programs** repository! This collection of programs is organized by difficulty level to help with logic building and problem-solving skills, making it perfect for technical interview preparation. Let’s conquer coding interviews, one step at a time! 💪
+Welcome to the **Java Programs** repository! This collection of Java programs is neatly organized by difficulty to help build your logic and problem-solving skills, making it an ideal resource for technical interview preparation.
 
 ---
 
-## 📅 Day-Wise Preparation
+## 📂 Repository Structure
 
-- [Day 1: Easy Patterns](#number-increasing-pyramid)
-- [Day 2: Medium Patterns](#palindrome-triangle)
-- [Day 3: Hard Patterns](#butterfly-pattern)
-- [Day 4: Basic Java Programs](#even-and-odd)
-- [Day 5: Array Problems](#smallest-and-largest-element)
-- [Day 6: String Problems](#string-problem-1)
+- [Patterns](#patterns)
+  - [Easy](#easy-patterns)
+  - [Medium](#medium-patterns)
+  - [Hard](#hard-patterns)
+- [Basic Programs](#basic-java-programs)
+- [Array Problems](#array-problems)
+  - [Easy](#easy-array-problems)
+  - [Medium](#medium-array-problems)
+  - [Hard](#hard-array-problems)
+- [String Problems](#string-problems)
+  - [Easy](#easy-string-problems)
+  - [Medium](#medium-string-problems)
+  - [Hard](#hard-string-problems)
 
 ---
 
 ## 💡 Patterns
 
-Enhance your pattern-building skills. Mastering patterns will help you get better at loops and nested loops.
+The **Patterns** section is divided by difficulty level to systematically build your logic for interviews.
 
-### Easy Patterns 🌱
+### Easy Patterns
 
-1. [Number Increasing Pyramid](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Easy/NumberIncreasingPyramid.java)
-2. [Reverse Left Half Pyramid](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Easy/ReverseLeftHalfPyramid.java)
-3. [Reverse Pyramid](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Easy/ReversePyramid.java)
-4. [Left Half Pyramid](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Easy/leftHalfPyramid.java)
+| Problem | Link |
+|---------|------|
+| Number Increasing Pyramid | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Easy/NumberIncreasingPyramid.java) |
+| Reverse Left Half Pyramid | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Easy/ReverseLeftHalfPyramid.java) |
+| Reverse Pyramid | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Easy/ReversePyramid.java) |
+| Left Half Pyramid | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Easy/leftHalfPyramid.java) |
 
-### Medium Patterns 🌿
+### Medium Patterns
 
-1. [Palindrome Triangle](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Medium/PalindromeTriangle.java)
-2. [Reverse Triangle](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Medium/ReverseTriangle.java)
-3. [Triangle](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Medium/Triangle.java)
-4. [Pascal's Triangle](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Medium/pascalsTraingle.java)
+| Problem | Link |
+|---------|------|
+| Palindrome Triangle | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Medium/PalindromeTriangle.java) |
+| Reverse Triangle | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Medium/ReverseTriangle.java) |
+| Triangle | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Medium/Triangle.java) |
+| Pascal's Triangle | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Medium/pascalsTraingle.java) |
 
-### Hard Patterns 🌲
+### Hard Patterns
 
-1. [Butterfly Pattern](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Hard/ButterflyPattern.java)
-2. [Rhombus](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Hard/Rhombus.java)
+| Problem | Link |
+|---------|------|
+| Butterfly Pattern | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Hard/ButterflyPattern.java) |
+| Rhombus Pattern | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Hard/Rhombus.java) |
 
 ---
 
 ## 📝 Basic Java Programs
 
-Familiarize yourself with frequently asked basic Java programs.
+These basic programs cover fundamental topics often asked in technical interviews.
 
-1. [Even And Odd](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/EvenAndOdd.java)
-2. [Factorial Number](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/FactorialNumber.java)
-3. [Fibonacci Series](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/FibonacciSeries.java)
-4. [Largest And Smallest Number](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/LargestAndSmallestNumber.java)
-5. [Multiplication Table](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/MultiplicationTable.java)
-6. [Palindrome](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/Palindrome.java)
-7. [Positive Or Negative](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/PositiveOrNegative.java)
-8. [Sum Of Natural Numbers](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/SumOfNaturalNumbers.java)
+| Problem | Link |
+|---------|------|
+| Even and Odd Numbers | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/EvenAndOdd.java) |
+| Factorial of a Number | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/FactorialNumber.java) |
+| Fibonacci Series | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/FibonacciSeries.java) |
+| Largest and Smallest Number | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/LargestAndSmallestNumber.java) |
+| Multiplication Table | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/MultiplicationTable.java) |
+| Palindrome Check | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/Palindrome.java) |
 
 ---
 
 ## 📊 Array Problems
 
-Hone your problem-solving abilities with various array-related problems.
+The **Array Problems** section covers various topics related to arrays, categorized by difficulty.
 
-### Easy Array Problems 📊
+### Easy Array Problems
 
-1. [Smallest and Largest Element](link_to_easy_smallest_largest_program)
-2. [Linear Search](link_to_easy_linear_search)
+| Problem | Link |
+|---------|------|
+| Smallest and Largest Element | [Code](link_to_easy_smallest_largest_program) |
+| Linear Search | [Code](link_to_easy_linear_search) |
 
-### Medium Array Problems 🛠
+### Medium Array Problems
 
-1. [Bubble Sort](link_to_medium_bubble_sort)
+| Problem | Link |
+|---------|------|
+| Bubble Sort | [Code](link_to_medium_bubble_sort) |
 
-### Hard Array Problems 💪
+### Hard Array Problems
 
-1. [Repeated Elements in Array](link_to_hard_repeated_elements)
+| Problem | Link |
+|---------|------|
+| Repeated Elements in Array | [Code](link_to_hard_repeated_elements) |
 
 ---
 
 ## 🔠 String Problems
 
-Master string manipulation by solving problems from easy to hard difficulty.
+String manipulation is key to solving many coding challenges. Below is the list of problems organized by difficulty:
 
-### Easy String Problems 🔠
+### Easy String Problems
 
-1. [String Problem 1](link_to_easy_string_problem_1)
+| Problem | Link |
+|---------|------|
+| String Problem 1 | [Code](link_to_easy_string_problem_1) |
 
-### Medium String Problems 🧩
+### Medium String Problems
 
-1. [String Problem 2](link_to_medium_string_problem_2)
+| Problem | Link |
+|---------|------|
+| String Problem 2 | [Code](link_to_medium_string_problem_2) |
 
-### Hard String Problems 🔗
+### Hard String Problems
 
-1. [String Problem 3](link_to_hard_string_problem_3)
+| Problem | Link |
+|---------|------|
+| String Problem 3 | [Code](link_to_hard_string_problem_3) |
 
 ---
 
 ## 📚 Additional Resources
 
-- [GeeksforGeeks](https://www.geeksforgeeks.org) 💡
-- [LeetCode](https://leetcode.com) 🧠
-- [HackerRank](https://www.hackerrank.com) 🔥
+- [GeeksforGeeks](https://www.geeksforgeeks.org) – Comprehensive coding solutions and explanations.
+- [LeetCode](https://leetcode.com) – Practice coding problems for interviews.
+- [HackerRank](https://www.hackerrank.com) – Improve coding skills with challenges.
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi! I’m **Adithya Perugu**, a passionate full-stack developer with expertise in Java, Spring Boot, and Angular. This repository reflects my journey through problem-solving. Explore the code, contribute, or feel free to ask questions!
+I'm **Adithya Perugu**, a passionate full-stack developer with expertise in Java, Spring Boot, and Angular. This repository is a collection of programs that have helped me sharpen my skills for technical interviews.
+
+Feel free to explore, contribute, or ask questions!
 
 ---
 
-### 🔗 Connect with Me:
+### 🔗 Connect with Me
 
-- [GitHub](https://github.com/peruguadithya)
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="120" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Coding" width="120" height="120"/>
-</p>
+- [GitHub](https://github.com/peruguadithya) – Check out my projects!
