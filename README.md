@@ -10,7 +10,7 @@ Welcome to the **Java Programs** repository! This collection of Java programs is
   - [Easy](#easy-patterns)
   - [Medium](#medium-patterns)
   - [Hard](#hard-patterns)
-- [Basic Programs](#📝-basic-java-programs)
+- [Basic Programs](#basic-java-programs)
 - [Array Problems](#📊-array-problems)
   - [Easy](#easy-array-problems)
   - [Medium](#medium-array-problems)
