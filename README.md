@@ -6,12 +6,12 @@ Welcome to the **Java Programs** repository! This collection of programs is orga
 
 ## 📅 Day-Wise Preparation
 
-- [Day 1: Easy Patterns](#easy-patterns)
-- [Day 2: Medium Patterns](#medium-patterns)
-- [Day 3: Hard Patterns](#hard-patterns)
-- [Day 4: Basic Java Programs](#basic-java-programs)
-- [Day 5: Array Problems](#array-problems)
-- [Day 6: String Problems](#string-problems)
+- [Day 1: Easy Patterns](#number-increasing-pyramid)
+- [Day 2: Medium Patterns](#palindrome-triangle)
+- [Day 3: Hard Patterns](#butterfly-pattern)
+- [Day 4: Basic Java Programs](#even-and-odd)
+- [Day 5: Array Problems](#smallest-and-largest-element)
+- [Day 6: String Problems](#string-problem-1)
 
 ---
 
