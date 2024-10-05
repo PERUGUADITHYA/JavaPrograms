@@ -7,7 +7,7 @@ Welcome to the **Java Programs** repository! This collection of Java programs is
 ## 📂 Repository Structure
 
 - [Patterns](#patterns) 🎨
-  - [Easy](#easy-patterns) – Beginner-friendly patterns to get you started.
+  - [Easy](#easy-patterns🌱) – Beginner-friendly patterns to get you started.
   - [Medium](#medium-patterns) – Intermediate challenges for better logic building.
   - [Hard](#hard-patterns) – Advanced patterns to test your problem-solving skills.
 - [Basic Programs](#basic-java-programs) 💡 – Essential programs often asked in interviews.
