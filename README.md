@@ -53,7 +53,7 @@ The **Patterns** section is divided by difficulty level to systematically build 
 
 ---
 
-## 📝 Basic Java Programs
+### 📝 Basic Java Programs
 
 These basic programs cover fundamental topics often asked in technical interviews.
 
