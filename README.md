@@ -24,57 +24,87 @@ Welcome to the **Java Programs** repository! This collection is designed to buil
 
 ---
 
-## 💡 Patterns 🎨
+# Java Programs for Interview Preparation 🚀
 
-The **Patterns** section helps you build your logic step-by-step, starting from simple patterns and gradually increasing in complexity.
-
-### Easy Patterns 🌱
-
-| Problem | Link |
-|---------|------|
-| Number Increasing Pyramid | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Easy/NumberIncreasingPyramid.java) |
-| Reverse Left Half Pyramid | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Easy/ReverseLeftHalfPyramid.java) |
-| Reverse Pyramid | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Easy/ReversePyramid.java) |
-| Left Half Pyramid | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Easy/leftHalfPyramid.java) |
-
-### Medium Patterns 🌿
-
-| Problem | Link |
-|---------|------|
-| Palindrome Triangle | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Medium/PalindromeTriangle.java) |
-| Reverse Triangle | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Medium/ReverseTriangle.java) |
-| Triangle | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Medium/Triangle.java) |
-| Pascal's Triangle | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Medium/pascalsTraingle.java) |
-
-### Hard Patterns 🌳
-
-| Problem | Link |
-|---------|------|
-| Butterfly Pattern | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Hard/ButterflyPattern.java) |
-| Rhombus Pattern | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Hard/Rhombus.java) |
+Welcome to this repository that is designed to help you prepare for coding interviews. It includes pattern-building exercises, basic Java programs, array problems, and more advanced data structure and algorithm questions. The problems are categorized by difficulty and each program includes a link to its code implementation.
 
 ---
 
-## 📝 Basic Java Programs 💡
+## 📅 Day-1: Patterns for Logic Building 🌟
 
-Basic programs are often asked in technical interviews and are essential for building your problem-solving foundation.
+Start by building your logic with pattern-based problems. These problems will help you enhance your thinking for more complex coding questions.
 
-| Problem | Link |
-|---------|------|
-| Even and Odd Numbers | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/EvenAndOdd.java) |
-| Factorial of a Number | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/FactorialNumber.java) |
-| Fibonacci Series | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/FibonacciSeries.java) |
-| Largest and Smallest Number | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/LargestAndSmallestNumber.java) |
-| Multiplication Table | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/MultiplicationTable.java) |
-| Palindrome Check | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/Palindrome.java) |
+### Patterns Included:
+- **Pyramid Pattern**: [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Easy/NumberIncreasingPyramid.java)
+- **Diamond Pattern**: [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Hard/Rhombus.java)
+- **Butterfly Pattern**: [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Hard/ButterflyPattern.java)
 
 ---
 
-## 📊 Array Problems 🟢🟡🔴
+## 📅 Day-2: Number System Conversion 🔢
 
-Array problems help you practice fundamental data structure concepts. The problems are categorized by difficulty to ensure a structured learning path.
+Understanding binary and decimal number systems is crucial for interviews. Below are the code implementations to convert numbers between binary and decimal formats.
 
-### Easy Array Problems 🟢
+- **Binary to Decimal**: [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/BinaryToDecimal.java)
+- **Decimal to Binary**: [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/DecimalToBinary.java)
+
+---
+
+## 📅 Day-3: Basic Java Programs for Interviews 💻
+
+These are essential Java programs that are frequently asked in interviews. Make sure you master these before heading into any technical round.
+
+| Problem                              | Code Link                                                                                              |
+|--------------------------------------|--------------------------------------------------------------------------------------------------------|
+| **Swap Two Numbers**                 | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/SwapTwoNumbers.java) |
+| **Sum of First N Natural Numbers**   | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/SumOfFirstNNumbers.java) |
+| **Palindrome Check**                 | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/Palindrome.java)      |
+| **Prime Number**                     | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/PrimeNumber.java)     |
+| **Factorial of a Number**            | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/FactorialNumber.java) |
+| **Fibonacci Series**                 | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/FibonacciSeries.java)  |
+| **Perfect Number**                   | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/PerfectNumber.java)    |
+| **Armstrong Number**                 | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/ArmstrongNumber.java)  |
+
+---
+
+## 📅 Day-4 and Day-5: Array Problems 📊
+
+Array problems are fundamental in any coding interview. Below are some common problems and their solutions:
+
+| Problem                           | Code Link                                                                                             | Algorithm/Technique  | Difficulty |
+|-----------------------------------|-------------------------------------------------------------------------------------------------------|----------------------|------------|
+| **Smallest and Largest Element**  | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Arrays/SmallestAndLargestElement.java)  | Linear Search         | Easy       |
+| **Search an Element in an Array** | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Arrays/SearchElement.java)              | Linear Search         | Easy       |
+| **Bubble Sort**                   | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Arrays/BubbleSort.java)                 | Bubble Sort           | Easy       |
+| **Repeated Elements in Array**    | [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Arrays/RepeatedElements.java)           | NA                    | Easy       |
+
+---
+
+## 📅 Day-6: Searching and Sorting Algorithms 🔍🌀
+
+Searching and sorting algorithms form the backbone of many complex problems. Make sure you're comfortable with the following:
+
+### Searching Algorithms:
+- **Linear Search**: [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Searching/LinearSearch.java)
+- **Binary Search**: [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Searching/BinarySearch.java)
+
+### Sorting Algorithms:
+- **Bubble Sort**: [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Sorting/BubbleSort.java)
+- **Selection Sort**: [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Sorting/SelectionSort.java)
+- **Insertion Sort**: [Code](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Sorting/InsertionSort.java)
+
+---
+
+## How to Contribute 🤝
+
+Contributions are welcome! If you have a better solution or new problems to add, feel free to open an issue or submit a pull request. Let's improve together!
+
+---
+
+## License 📜
+
+This repository is licensed under the MIT License. You are free to use the code for learning and development purposes.
+
 
 | Problem | Link |
 |---------|------|
