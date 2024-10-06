@@ -273,8 +273,8 @@
 <h2>📚 Additional Resources</h2>
 
 <ul>
-  <li><img src="https://img.icons8.com/color/48/000000/geeksforgeeks.png" width="20" /> <a href="https://www.geeksforgeeks.org">GeeksforGeeks</a> – Comprehensive coding solutions and explanations.</li>
-  <li><img src="https://img.icons8.com/fluency/48/000000/leetcode.png" width="20" /> <a href="https://leetcode.com">LeetCode</a> – Practice coding problems for interviews.</li>
+  <li><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="20" /> <a href="https://www.geeksforgeeks.org">GeeksforGeeks</a> – Comprehensive coding solutions and explanations.</li>
+  <li><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="20" /> <a href="https://leetcode.com">LeetCode</a> – Practice coding problems for interviews.</li>
   <li><img src="https://img.icons8.com/windows/32/000000/hackerrank.png" width="20" /> <a href="https://www.hackerrank.com">HackerRank</a> – Improve coding skills with challenges.</li>
 </ul>
 
