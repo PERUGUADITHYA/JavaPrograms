@@ -273,9 +273,9 @@
 <h2>📚 Additional Resources</h2>
 
 <ul>
-  <li><a href="https://www.geeksforgeeks.org">GeeksforGeeks</a> – Comprehensive coding solutions and explanations.</li>
-  <li><a href="https://leetcode.com">LeetCode</a> – Practice coding problems for interviews.</li>
-  <li><a href="https://www.hackerrank.com">HackerRank</a> – Improve coding skills with challenges.</li>
+  <li><img src="https://img.icons8.com/color/48/000000/geeksforgeeks.png" width="20" /> <a href="https://www.geeksforgeeks.org">GeeksforGeeks</a> – Comprehensive coding solutions and explanations.</li>
+  <li><img src="https://img.icons8.com/fluency/48/000000/leetcode.png" width="20" /> <a href="https://leetcode.com">LeetCode</a> – Practice coding problems for interviews.</li>
+  <li><img src="https://img.icons8.com/windows/32/000000/hackerrank.png" width="20" /> <a href="https://www.hackerrank.com">HackerRank</a> – Improve coding skills with challenges.</li>
 </ul>
 
 ---
@@ -290,4 +290,5 @@
 
 <p align="center">
   <a href="https://github.com/peruguadithya"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/adithya-perugu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
