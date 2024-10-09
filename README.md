@@ -172,13 +172,30 @@
   </thead>
   <tbody>
     <tr>
-      <td>Smallest and Largest Element</td>
-      <td><a href="link_to_easy_smallest_largest_program">Code</a></td>
+      <td>PositiveNegativeNumber</td>
+      <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Arrays/Easy/PositiveNegativeNumber.java">Code</a></td>
     </tr>
     <tr>
-      <td>Linear Search</td>
-      <td><a href="link_to_easy_linear_search">Code</a></td>
+      <td>ReverseArray</td>
+      <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Arrays/Easy/ReverseArray.java">Code</a></td>
     </tr>
+    <tr>
+      <td>MaximumAndMinimumElement</td>
+      <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Arrays/Easy/MaximumAndMinimumElement.java">Code</a></td>
+    </tr>
+      <tr>
+      <td>RemoveDuplicateElements</td>
+      <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Arrays/Easy/RemoveDuplicateElements.java">Code</a></td>
+    </tr>
+     <tr>
+      <td>EvenOddNumbers</td>
+      <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Arrays/Easy/EvenOddNumbers.java">Code</a></td>
+    </tr>
+    <tr>
+      <td>SumOfElements</td>
+      <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Arrays/Easy/SumOfElements.java">Code</a></td>
+    </tr>
+    
   </tbody>
 </table>
 
