@@ -49,19 +49,19 @@
   </thead>
   <tbody>
     <tr>
-      <td>Number Increasing Pyramid</td>
+      <td>1. Number Increasing Pyramid</td>
       <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Easy/NumberIncreasingPyramid.java">Code</a></td>
     </tr>
     <tr>
-      <td>Reverse Left Half Pyramid</td>
+      <td>2. Reverse Left Half Pyramid</td>
       <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Easy/ReverseLeftHalfPyramid.java">Code</a></td>
     </tr>
     <tr>
-      <td>Reverse Pyramid</td>
+      <td>3. Reverse Pyramid</td>
       <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Easy/ReversePyramid.java">Code</a></td>
     </tr>
     <tr>
-      <td>Left Half Pyramid</td>
+      <td>4. Left Half Pyramid</td>
       <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Easy/leftHalfPyramid.java">Code</a></td>
     </tr>
   </tbody>
@@ -77,19 +77,19 @@
   </thead>
   <tbody>
     <tr>
-      <td>Palindrome Triangle</td>
+      <td>1. Palindrome Triangle</td>
       <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Medium/PalindromeTriangle.java">Code</a></td>
     </tr>
     <tr>
-      <td>Reverse Triangle</td>
+      <td>2. Reverse Triangle</td>
       <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Medium/ReverseTriangle.java">Code</a></td>
     </tr>
     <tr>
-      <td>Triangle</td>
+      <td>3. Triangle</td>
       <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Medium/Triangle.java">Code</a></td>
     </tr>
     <tr>
-      <td>Pascal's Triangle</td>
+      <td>4. Pascal's Triangle</td>
       <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Medium/pascalsTraingle.java">Code</a></td>
     </tr>
   </tbody>
@@ -105,11 +105,11 @@
   </thead>
   <tbody>
     <tr>
-      <td>Butterfly Pattern</td>
+      <td>1. Butterfly Pattern</td>
       <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Hard/ButterflyPattern.java">Code</a></td>
     </tr>
     <tr>
-      <td>Rhombus Pattern</td>
+      <td>2. Rhombus Pattern</td>
       <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Hard/Rhombus.java">Code</a></td>
     </tr>
   </tbody>
@@ -118,7 +118,6 @@
 ---
 
 <h2 id="basic-programs">📝 Basic Java Programs</h2>
-
 <p align="center">These basic programs cover fundamental topics often asked in technical interviews.</p>
 
 <table align="center">
@@ -130,27 +129,27 @@
   </thead>
   <tbody>
     <tr>
-      <td>Even and Odd Numbers</td>
+      <td>1. Even and Odd Numbers</td>
       <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/EvenAndOdd.java">Code</a></td>
     </tr>
     <tr>
-      <td>Factorial of a Number</td>
+      <td>2. Factorial of a Number</td>
       <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/FactorialNumber.java">Code</a></td>
     </tr>
     <tr>
-      <td>Fibonacci Series</td>
+      <td>3. Fibonacci Series</td>
       <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/FibonacciSeries.java">Code</a></td>
     </tr>
     <tr>
-      <td>Largest and Smallest Number</td>
+      <td>4. Largest and Smallest Number</td>
       <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/LargestAndSmallestNumber.java">Code</a></td>
     </tr>
     <tr>
-      <td>Multiplication Table</td>
+      <td>5. Multiplication Table</td>
       <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/MultiplicationTable.java">Code</a></td>
     </tr>
     <tr>
-      <td>Palindrome Check</td>
+      <td>6. Palindrome Check</td>
       <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/Palindrome.java">Code</a></td>
     </tr>
   </tbody>
@@ -172,30 +171,25 @@
   </thead>
   <tbody>
     <tr>
-      <td>PositiveNegativeNumber</td>
+      <td>1. Positive and Negative Numbers</td>
       <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Arrays/Easy/PositiveNegativeNumber.java">Code</a></td>
     </tr>
     <tr>
-      <td>ReverseArray</td>
+      <td>2. Reverse Array</td>
       <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Arrays/Easy/ReverseArray.java">Code</a></td>
     </tr>
     <tr>
-      <td>MaximumAndMinimumElement</td>
+      <td>3. Maximum and Minimum Element</td>
       <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Arrays/Easy/MaximumAndMinimumElement.java">Code</a></td>
     </tr>
-      <tr>
-      <td>RemoveDuplicateElements</td>
+    <tr>
+      <td>4. Remove Duplicate Elements</td>
       <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Arrays/Easy/RemoveDuplicateElements.java">Code</a></td>
     </tr>
-     <tr>
-      <td>EvenOddNumbers</td>
-      <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Arrays/Easy/EvenOddNumbers.java">Code</a></td>
-    </tr>
     <tr>
-      <td>SumOfElements</td>
-      <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Arrays/Easy/SumOfElements.java">Code</a></td>
+      <td>5. Even and Odd Numbers</td>
+      <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Arrays/Easy/EvenAndOdd.java">Code</a></td>
     </tr>
-    
   </tbody>
 </table>
 
@@ -209,8 +203,24 @@
   </thead>
   <tbody>
     <tr>
-      <td>Bubble Sort</td>
-      <td><a href="link_to_medium_bubble_sort">Code</a></td>
+      <td>1. Maximum Difference</td>
+      <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Arrays/Medium/MaximumDifference.java">Code</a></td>
+    </tr>
+    <tr>
+      <td>2. Sort Array in Ascending Order</td>
+      <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Arrays/Medium/SortArrayAscendingOrder.java">Code</a></td>
+    </tr>
+    <tr>
+      <td>3. Rotate Array</td>
+      <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Arrays/Medium/RotateArray.java">Code</a></td>
+    </tr>
+    <tr>
+      <td>4. Merge Two Arrays</td>
+      <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Arrays/Medium/MergeTwoArrays.java">Code</a></td>
+    </tr>
+    <tr>
+      <td>5. Union of Two Arrays</td>
+      <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Arrays/Medium/UnionOfTwoArrays.java">Code</a></td>
     </tr>
   </tbody>
 </table>
@@ -225,17 +235,25 @@
   </thead>
   <tbody>
     <tr>
-      <td>Repeated Elements in Array</td>
-      <td><a href="link_to_hard_repeated_elements">Code</a></td>
+      <td>1. Maximum Sum Subarray</td>
+      <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Arrays/Hard/MaximumSumSubarray.java">Code</a></td>
+    </tr>
+    <tr>
+      <td>2. Find Duplicate in an Array</td>
+      <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Arrays/Hard/FindDuplicate.java">Code</a></td>
+    </tr>
+    <tr>
+      <td>3. Product of Array Except Self</td>
+      <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Arrays/Hard/ProductOfArrayExceptSelf.java">Code</a></td>
     </tr>
   </tbody>
 </table>
 
 ---
 
-<h2 id="string-problems">🔠 String Problems</h2>
+<h2 id="string-problems">🔤 String Problems</h2>
 
-<p align="center">String manipulation is key to solving many coding challenges. Below is the list of problems organized by difficulty:</p>
+<p align="center">This section focuses on string manipulation challenges categorized by difficulty.</p>
 
 <h3 id="easy-string-problems">Easy String Problems</h3>
 <table align="center">
@@ -247,8 +265,20 @@
   </thead>
   <tbody>
     <tr>
-      <td>String Problem 1</td>
-      <td><a href="link_to_easy_string_problem_1">Code</a></td>
+      <td>1. Reverse a String</td>
+      <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Strings/Easy/ReverseString.java">Code</a></td>
+    </tr>
+    <tr>
+      <td>2. Check for Palindrome</td>
+      <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Strings/Easy/PalindromeCheck.java">Code</a></td>
+    </tr>
+    <tr>
+      <td>3. Count Vowels and Consonants</td>
+      <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Strings/Easy/CountVowelsAndConsonants.java">Code</a></td>
+    </tr>
+    <tr>
+      <td>4. Remove Whitespace</td>
+      <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Strings/Easy/RemoveWhitespace.java">Code</a></td>
     </tr>
   </tbody>
 </table>
@@ -263,8 +293,16 @@
   </thead>
   <tbody>
     <tr>
-      <td>String Problem 2</td>
-      <td><a href="link_to_medium_string_problem_2">Code</a></td>
+      <td>1. Anagram Check</td>
+      <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Strings/Medium/AnagramCheck.java">Code</a></td>
+    </tr>
+    <tr>
+      <td>2. Count Character Occurrences</td>
+      <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Strings/Medium/CountCharacterOccurrences.java">Code</a></td>
+    </tr>
+    <tr>
+      <td>3. Remove Duplicates</td>
+      <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Strings/Medium/RemoveDuplicates.java">Code</a></td>
     </tr>
   </tbody>
 </table>
@@ -279,33 +317,28 @@
   </thead>
   <tbody>
     <tr>
-      <td>String Problem 3</td>
-      <td><a href="link_to_hard_string_problem_3">Code</a></td>
+      <td>1. Longest Substring Without Repeating Characters</td>
+      <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Strings/Hard/LongestSubstringWithoutRepeatingCharacters.java">Code</a></td>
+    </tr>
+    <tr>
+      <td>2. String Compression</td>
+      <td><a href="https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Strings/Hard/StringCompression.java">Code</a></td>
     </tr>
   </tbody>
 </table>
 
 ---
 
-<h2>📚 Additional Resources</h2>
+<h2>📜 License</h2>
+<p>This project is licensed under the MIT License.</p>
 
+<h2>📞 Contact</h2>
+<p>If you have any questions or suggestions, feel free to reach out:</p>
 <ul>
-  <li><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="20" /> <a href="https://www.geeksforgeeks.org">GeeksforGeeks</a> – Comprehensive coding solutions and explanations.</li>
-  <li><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="20" /> <a href="https://leetcode.com">LeetCode</a> – Practice coding problems for interviews.</li>
-  <li><img src="https://img.icons8.com/windows/32/000000/hackerrank.png" width="20" /> <a href="https://www.hackerrank.com">HackerRank</a> – Improve coding skills with challenges.</li>
+  <li>Email: <a href="mailto:perugu@example.com">perugu@example.com</a></li>
+  <li>GitHub: <a href="https://github.com/PERUGUADITHYA">PERUGUADITHYA</a></li>
 </ul>
 
 ---
 
-<h2>👨‍💻 About Me</h2>
-
-<p align="center">I'm <strong>Adithya Perugu</strong>, a passionate full-stack developer with expertise in Java, Spring Boot, and Angular. This repository is a collection of programs that have helped me sharpen my skills for technical interviews. Feel free to explore, contribute, or ask questions!</p>
-
----
-
-<h2 align="center">🔗 Connect with Me</h2>
-
-<p align="center">
-  <a href="https://github.com/peruguadithya"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/adithya-perugu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
+<p align="center">🌟 Happy Coding! 🌟</p>
