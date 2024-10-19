@@ -142,9 +142,9 @@ String manipulation is key to solving many coding challenges. Below is the list 
 
 ## 📚 Additional Resources
 
-- ![GeeksforGeeks](https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg) – Comprehensive coding solutions and explanations.
-- ![LeetCode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png) [LeetCode](https://leetcode.com) – Practice coding problems for interviews.
-- ![HackerRank](https://img.icons8.com/windows/32/000000/hackerrank.png) [HackerRank](https://www.hackerrank.com) – Improve coding skills with challenges.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="20"/> – Comprehensive coding solutions and explanations.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="20"/> [LeetCode](https://leetcode.com) – Practice coding problems for interviews.
+- <img src="https://img.icons8.com/windows/32/000000/hackerrank.png" width="20"/> [HackerRank](https://www.hackerrank.com) – Improve coding skills with challenges.
 
 ---
 
