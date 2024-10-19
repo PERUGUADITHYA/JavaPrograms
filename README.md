@@ -22,6 +22,35 @@ Welcome to the **Java Programs** repository! This collection of Java programs is
 
 ---
 
+## 📂 Repository Structure | 🗓 Daywise Plan
+
+### **Patterns**                   | **Day 1: Easy Patterns**
+  - Easy Patterns                  | - Solve:
+  - Medium Patterns                |   - [Number Increasing Pyramid](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Easy/NumberIncreasingPyramid.java)
+  - Hard Patterns                  |   - [Reverse Left Half Pyramid](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Easy/ReverseLeftHalfPyramid.java)
+
+### **Basic Programs**              | **Day 2: Basic Java Programs**
+  - Even and Odd Numbers           | - Solve:
+  - Factorial of a Number          |   - [Even and Odd Numbers](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/EvenAndOdd.java)
+  - Fibonacci Series               |   - [Factorial of a Number](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/FactorialNumber.java)
+
+### **Array Problems**              | **Day 3: Medium Patterns**
+  - Easy Array Problems            | - Solve:
+  - Medium Array Problems          |   - [Palindrome Triangle](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Medium/PalindromeTriangle.java)
+  - Hard Array Problems            |   - [Pascal's Triangle](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Patterns/Medium/pascalsTraingle.java)
+
+### **String Problems**             | **Day 4: More Basic Java Programs**
+  - Easy String Problems           | - Solve:
+  - Medium String Problems         |   - [Fibonacci Series](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/FibonacciSeries.java)
+  - Hard String Problems           |   - [Palindrome Check](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Basic%20Java%20Programs/Palindrome.java)
+
+### **Additional Array Problems**   | **Day 5: Easy Array Problems**
+                                    | - Solve:
+                                    |   - [Maximum and Minimum Element](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Arrays/Easy/MaximumAndMinimumElement.java)
+                                    |   - [Remove Duplicate Elements](https://github.com/PERUGUADITHYA/JavaPrograms/blob/main/Arrays/Easy/RemoveDuplicateElements.java)
+
+---
+
 ## 💡 Patterns
 
 The **Patterns** section is categorized by difficulty level to systematically build your logic for interviews.
@@ -120,13 +149,11 @@ String manipulation is key to solving many coding challenges. Below is the list 
 ---
 
 ## 👨‍💻 About Me
-
 I'm **Adithya Perugu**, a passionate full-stack developer with expertise in Java, Spring Boot, and Angular. This repository is a collection of programs that have helped me sharpen my skills for technical interviews. Feel free to explore, contribute, or ask questions!
 
 ---
 
 ## 🔗 Connect with Me
-
 <p align="center">
   <a href="https://github.com/peruguadithya"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://linkedin.com/in/adithya-perugu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
